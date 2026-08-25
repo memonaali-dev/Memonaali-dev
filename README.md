@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a0f08,50:3d1f0a,100:f97316&height=220&section=header&text=Memona&fontSize=55&fontColor=ffffff&fontAlignY=40&desc=Engineered%20for%20Excellence&descAlignY=58&descSize=20&descColor=f97316&animation=fadeIn" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a0f08,50:3d1f0a,100:f97316&height=220&section=header&text=Memona%20Ali%20Hussnain&fontSize=45&fontColor=ffffff&fontAlignY=40&desc=Engineered%20for%20Excellence&descAlignY=58&descSize=20&descColor=f97316&animation=fadeIn" width="100%"/>
 
 <a href="https://your-portfolio-link.com">
   <img src="https://img.shields.io/badge/PORTFOLIO-View%20Now-f97316?style=for-the-badge&logoColor=white" />
